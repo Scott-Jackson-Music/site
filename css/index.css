@@ -1,0 +1,38 @@
+/* Fonts */
+
+body {
+    background-color: #403d3d;
+}
+
+#intro{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 300;
+    font-size: 21px;
+    color: white;
+    text-align: center;
+}
+
+#logo {
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+}
+
+#logo-inner {
+    font-size: 32px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    padding: 1rem 2rem 1rem 2rem;
+}
+
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
