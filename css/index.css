@@ -67,6 +67,13 @@ body {
     justify-content: center;
 }
 
+.contact-form {
+    color: white;
+    margin-top: 20%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
 .btn {
     width: 10vw;
     font-size: 1.25rem;
